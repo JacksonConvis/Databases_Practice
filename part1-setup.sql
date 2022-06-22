@@ -16,3 +16,5 @@ VALUES ('Hello Fresh is trash', 'I found trash in the box', 1, 1),
   ('Disaster', 'Parasites everywhere', 1, 2),
   ('Mediocre at best', 'Costco has better meats', 3, 2),
   ('Plants man', 'I love getting my plants delivered', 5, 3);
+
+
